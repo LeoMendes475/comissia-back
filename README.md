@@ -1,7 +1,7 @@
 ## Passo a passo para rodar o projeto
 Clone o projeto
 ```sh
-git clone https://github.com/LeoMendes475/task-manager-back.git
+[git clone https://github.com/LeoMendes475/task-manager-back.git](https://github.com/LeoMendes475/comissia-back.git)
 ```
 ```sh
 cd task-manager-back
@@ -10,7 +10,7 @@ cd task-manager-back
 
 Crie o arquivo .env e atualize essas variáveis de ambiente no arquivo
 ```dosini
-APP_NAME='taskmanager'
+APP_NAME='app'
 APP_ENV=local
 APP_KEY=
 APP_DEBUG=true
