@@ -17,3 +17,4 @@ Route::middleware(['auth:sanctum'])->group(function () {
     Route::apiResource('/supports', SupportController::class);
 });
 // Route::apiResource('/supports', SupportController::class)->middleware('auth');
+
